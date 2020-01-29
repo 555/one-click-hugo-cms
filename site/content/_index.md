@@ -1,7 +1,7 @@
 ---
 title: Average coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
-image: img/microdeo.svg
+image: img/about-reinvest-profits.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
